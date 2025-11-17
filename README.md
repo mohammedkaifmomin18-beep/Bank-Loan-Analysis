@@ -1,81 +1,99 @@
-# Bank-Loan-Analysis
-Data cleaning, EDA, and multivariate analysis on bank loan dataset.
-# 🏦 Bank Loan Analysis Project
+# 🏦 Bank Loan Analysis | Data Analytics Project
 
-## 📌 Overview
-This project focuses on analyzing a large bank loan dataset (2 lakh+ rows) to understand customer behavior, lending patterns, and factors affecting loan distribution.  
-It includes **data cleaning, exploratory data analysis (EDA), univariate, bivariate, and multivariate analysis**.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+---
+
+## 📌 Project Overview
+This project performs a detailed analysis of a bank loan dataset containing more than **2 lakh customer records**.  
+It includes **data cleaning, EDA, visualization, univariate, bivariate, and multivariate analysis** to uncover trends in loan behavior and customer demographics.
 
 ---
 
 ## 🎯 Objectives
-- Clean and preprocess the raw loan dataset
-- Identify patterns and trends in customer demographics
-- Detect & handle outliers in loan amount
-- Perform univariate, bivariate, and multivariate analysis
-- Generate insights for business decision-making
+- Clean, preprocess, and validate raw customer loan data  
+- Perform univariate, bivariate & multivariate analysis  
+- Detect and handle outliers in loan amount  
+- Understand customer loan patterns across demographics  
+- Provide insights for data-driven decision making  
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ---
 
-## 🧹 **Data Cleaning Steps**
-- Checked for missing values  
-- Removed duplicate rows  
-- Standardized category values  
-- Detected and handled outliers  
-- Cleaned date & numeric formats  
+## 🧹 Data Cleaning Workflow
+- Removed duplicates  
+- Handled missing values  
+- Standardized categorical values  
+- Converted data types  
+- Detected outliers (loan amount)  
+- Treated extreme values using percentile removal  
 
 ---
 
-## 📊 **Exploratory Data Analysis (EDA)**
-### 🔹 Univariate Analysis
+## 📊 Exploratory Data Analysis (EDA)
+
+### 🔹 **Univariate Analysis**
 - Age distribution  
 - Loan amount distribution  
-- EMI patterns  
-- Income types  
+- Gender distribution  
+- Occupation categories  
 
-### 🔹 Bivariate Analysis
+### 🔹 **Bivariate Analysis**
 - Loan Amount vs Occupation  
 - Loan Type vs Customer Count  
+- Gender vs Loan Status  
 - Age Group vs Loan Amount  
-- Gender vs Loan Approval Status  
 
-### 🔹 Multivariate Analysis
-- Relationship between Age, Occupation, Loan Amount  
-- Loan Behavior segmented by Gender, Age, and Loan Type  
-
----
-
-## 🧠 **Key Insights**
-- Gender distribution is almost equal across Male, Female, and Others  
-- Most loans are taken by customers aged **26–55**  
-- Loan amount contains around **15% outliers**  
-- Salaried individuals have the highest loan count  
-- Home Loan & Car Loan are the most common loan types  
+### 🔹 **Multivariate Analysis**
+- Age × Occupation × Loan Amount  
+- Gender × Loan Type × Income Group  
+- Customer segmentation based on multiple variables  
 
 ---
 
-## 🛠️ **Tools & Technologies Used**
-- Python (Pandas, NumPy, Matplotlib)
+## 🧠 Key Insights (Summary)
+- Gender distribution is almost equal across **Male, Female, and Others**  
+- Loan dataset contains **approx. 15% outliers**  
+- Customers aged **26–55** take the majority of loans  
+- **Salaried individuals** have the highest loan count  
+- **Home Loan & Car Loan** are the most preferred loan types  
+
+---
+
+## 📸 Visual Highlights  
+(Add your graphs here later)
+
+
+---
+
+## 🛠️ Tools & Technologies
+- Python: Pandas, NumPy, Matplotlib  
 - Jupyter Notebook  
 - Power BI  
 - Excel  
-- GitHub  
+- GitHub Version Control  
 
 ---
 
-## 📑 **Deliverables**
-- Clean dataset  
-- EDA notebook  
-- Visualizations  
-- Stakeholder presentation (PPT)  
-- Final summary of insights  
+## 📑 Deliverables
+- ✔ Cleaned dataset  
+- ✔ EDA notebook  
+- ✔ Outlier treatment  
+- ✔ Charts & visuals  
+- ✔ Stakeholder-level PPT presentation  
 
 ---
 
-## 📄 **Author**
+## 👤 Author
 **Mohammed Kaif Momin**  
-Data Analyst  
+_Data Analyst_  
+GitHub: https://github.com/mohammedkaifmomin18-beep
+
+
