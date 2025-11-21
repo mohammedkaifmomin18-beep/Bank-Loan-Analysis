@@ -67,8 +67,23 @@ It includes **data cleaning, EDA, visualization, univariate, bivariate, and mult
 
 ---
 
-## 📸 Visual Highlights  
+## 📸 Visual Highlights
 (Add your graphs here later)
+![Loan Distribution](visuals/loan_distribution.png)
+## 📸 Visual Highlights
+
+### 🔹 Loan Amount Distribution
+![Loan Amount Distribution](visuals/loan_amount_distribution.png)
+
+### 🔹 Correlation Heatmap
+![Correlation Heatmap](visuals/heatmap.png)
+
+### 🔹 Categorical Distribution
+![Categorical Distribution](visuals/categorical_distribution.png)
+
+### 🔹 Scatter Plot (Numeric vs Numeric)
+![Scatter Plot](visuals/scatter.png)
+
 
 
 ---
