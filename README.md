@@ -20,6 +20,15 @@
 - Detected ~15% outliers in loan distribution
 - Delivered actionable business insights
 
+ ## 💡 Business Impact
+- Identified high-risk loan segments to improve risk management
+- Enabled better customer targeting strategies for financial institutions
+
+## 📌 Recommendations
+- Focus marketing efforts on customers aged 26–55
+- Monitor and control high-value loan outliers
+- Customize loan offerings based on occupation segments
+
 🔗 [View Project](https://github.com/mohammedkaifmomin18-beep/Bank-Loan-Analysis)
 
 ---
