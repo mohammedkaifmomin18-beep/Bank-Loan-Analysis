@@ -1,115 +1,35 @@
-# 🏦 Bank Loan Analysis | Data Analytics Project
+# 🚀 Mohammed Kaif Momin | Data Analyst
 
+🎯 Turning raw data into meaningful business insights
+
+---
+
+## 🧠 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📌 Project Overview
-This project performs a detailed analysis of a bank loan dataset containing more than **2 lakh customer records**.  
-It includes **data cleaning, EDA, visualization, univariate, bivariate, and multivariate analysis** to uncover trends in loan behavior and customer demographics.
+## 📊 Featured Projects
+
+### 🏦 Bank Loan Analysis
+- Cleaned and analyzed 200K+ records
+- Identified customer segments & loan trends
+- Detected ~15% outliers in loan distribution
+- Delivered actionable business insights
+
+🔗 [View Project](https://github.com/mohammedkaifmomin18-beep/Bank-Loan-Analysis)
 
 ---
 
-## 🎯 Objectives
-- Clean, preprocess, and validate raw customer loan data  
-- Perform univariate, bivariate & multivariate analysis  
-- Detect and handle outliers in loan amount  
-- Understand customer loan patterns across demographics  
-- Provide insights for data-driven decision making  
+## 📈 GitHub Stats
+![Kaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedkaifmomin18-beep&show_icons=true)
 
 ---
 
-## 📁 Project Structure
-
----
-
-## 🧹 Data Cleaning Workflow
-- Removed duplicates  
-- Handled missing values  
-- Standardized categorical values  
-- Converted data types  
-- Detected outliers (loan amount)  
-- Treated extreme values using percentile removal  
-
----
-
-## 📊 Exploratory Data Analysis (EDA)
-
-### 🔹 **Univariate Analysis**
-- Age distribution  
-- Loan amount distribution  
-- Gender distribution  
-- Occupation categories  
-
-### 🔹 **Bivariate Analysis**
-- Loan Amount vs Occupation  
-- Loan Type vs Customer Count  
-- Gender vs Loan Status  
-- Age Group vs Loan Amount  
-
-### 🔹 **Multivariate Analysis**
-- Age × Occupation × Loan Amount  
-- Gender × Loan Type × Income Group  
-- Customer segmentation based on multiple variables  
-
----
-
-## 🧠 Key Insights (Summary)
-- Gender distribution is almost equal across **Male, Female, and Others**  
-- Loan dataset contains **approx. 15% outliers**  
-- Customers aged **26–55** take the majority of loans  
-- **Salaried individuals** have the highest loan count  
-- **Home Loan & Car Loan** are the most preferred loan types  
-
----
-
-## 📸 Visual Highlights
-
-### 1️⃣ Screenshot 1
-![Plot 1](visuals/Screenshot%202025-10-25%20002845.png)
-
-### 2️⃣ Screenshot 2
-![Plot 2](visuals/Screenshot%202025-10-25%20003110.png)
-
-### 3️⃣ Screenshot 3
-![Plot 3](visuals/Screenshot%202025-10-25%20005844.png)
-
-### 4️⃣ Screenshot 4
-![Plot 4](visuals/Screenshot%202025-10-25%20010436.png)
-
-### 5️⃣ Additional Image
-![Image](visuals/image.png)
-
-
-
-
----
-
-## 🛠️ Tools & Technologies
-- Python: Pandas, NumPy, Matplotlib  
-- Jupyter Notebook  
-- Power BI  
-- Excel  
-- GitHub Version Control  
-
----
-
-## 📑 Deliverables
-- ✔ Cleaned dataset  
-- ✔ EDA notebook  
-- ✔ Outlier treatment  
-- ✔ Charts & visuals  
-- ✔ Stakeholder-level PPT presentation  
-
----
-
-## 👤 Author
-**Mohammed Kaif Momin**  
-_Data Analyst_  
-GitHub: https://github.com/mohammedkaifmomin18-beep
+## 📫 Contact
+📧 mohammedkaifmomin18@gmail.com
 
 
