@@ -12,6 +12,17 @@
 
 ---
 
+## ▶️ How to Run This Project
+
+1. Clone the repository
+2. Open Jupyter Notebook
+3. Run the notebooks in order:
+   - Univariate Analysis
+   - Bivariate Analysis
+   - Multivariate Analysis
+4. View outputs and visualizations
+
+
 ## 📊 Featured Projects
 
 ### 🏦 Bank Loan Analysis
