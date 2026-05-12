@@ -22,11 +22,15 @@
    - Multivariate Analysis
 4. View outputs and visualizations
 
+---
+
 ## 📓 Notebooks
 
 - [Univariate Analysis](notebooks/Univariate%20of%20bank%20data%20(1).ipynb)
 - [Bivariate Analysis](notebooks/bivariate%20of%20bank%20data.ipynb)
 - [Multivariate Analysis](notebooks/Multivariate%20of%20bank%20data.ipynb)
+
+---
 
 ## 🔄 Project Workflow
 
@@ -37,6 +41,8 @@
 5. Visualization & Insights
 6. Business Recommendations
 
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Python**: Data cleaning, analysis, and visualization  
@@ -45,6 +51,8 @@
 - **Jupyter Notebook**: Interactive analysis  
 - **Power BI**: Dashboard creation and presentation  
 - **Excel**: Initial data handling
+
+---
 
 ## 📸 Visual Insights
 
@@ -58,17 +66,23 @@ Displays relationships between numerical variables
 
 ![Heatmap](visuals/heatmap.png)
 
+---
+
 ## ⚠️ Limitations
 
 - Dataset may not represent all real-world scenarios  
 - Some variables lack detailed business context  
 - Outlier handling may affect extreme case analysis
 
+---
+
 ## 🚀 Future Improvements
 
 - Build predictive model for loan approval  
 - Integrate real-time data  
 - Develop interactive dashboard in Power BI  
+
+---
 
 ## 📊 Featured Projects
 
@@ -78,10 +92,13 @@ Displays relationships between numerical variables
 - Detected ~15% outliers in loan distribution
 - Delivered actionable business insights
 
+---
+
  ## 💡 Business Impact
 - Identified high-risk loan segments to improve risk management
 - Enabled better customer targeting strategies for financial institutions
 
+---
 
 ## 📈 Key KPIs
 
