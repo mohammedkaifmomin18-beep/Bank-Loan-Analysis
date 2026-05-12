@@ -82,6 +82,38 @@ Displays relationships between numerical variables
 - Identified high-risk loan segments to improve risk management
 - Enabled better customer targeting strategies for financial institutions
 
+
+## 📈 Key KPIs
+
+- Total Loan Applications
+- Average Loan Amount
+- Default Rate
+- High Risk Customers
+- Approval vs Rejection Ratio
+- Average Credit Score
+
+---
+
+## 🧠 Business Questions Solved
+
+1. Which customer segment has highest default risk?
+2. Which age group takes highest loans?
+3. What factors affect loan repayment?
+4. Which regions generate risky loans?
+5. Which interest level performs best?
+
+---
+
+## 📌 Strategic Recommendations
+
+- Reduce loan exposure in high-risk categories
+- Improve targeting for medium-risk customers
+- Create customized repayment plans
+- Increase monitoring for deferred repayment accounts
+
+---
+
+
 ## 📌 Recommendations
 - Focus marketing efforts on customers aged 26–55
 - Monitor and control high-value loan outliers
