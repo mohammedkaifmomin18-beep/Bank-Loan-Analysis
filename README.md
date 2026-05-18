@@ -1,4 +1,5 @@
-# 🚀 Mohammed Kaif Momin | Data Analyst
+# # 📊 Financial Loan Analysis
+### End-to-End Data Analytics Project
 
 🎯 Turning raw data into meaningful business insights
 
